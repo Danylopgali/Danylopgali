@@ -1,9 +1,9 @@
-<h1 align="center"><b>Hi , I'm Daniel Lopez </b></h1>
+<h1 align="center"><b>&#x1F4BB Hi , I'm Daniel Lopez &#x1F60E </b></h1>
 <!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <br>
 
@@ -15,40 +15,32 @@
 
 <br>
 
-- Full Stack  Web Developer 
-- Currently a computer engineering student
-- My Porfile [link](https://www.0xabdulkhalid.ml)
+<h3>- Full Stack  Web Developer &#128188 </h3>
+<h3>- Currently a computer engineering student &#x1F9D0 </h3>
+<h3>- My Porfile [link](https://www.0xabdulkhalid.ml)  &#x1F4BC </h3>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<h2>Skills</h2>  
 <br>
 
-<p align="center">
-
-- **Languages**:
-    
-[<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
-</p>
-](url)
+<h3>
+- Languages:
+</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,c,cpp,css,html,py&perline=14" />
   </a>
-</p>
 
 
 
 <br>   
-    
-- **Front-End Development**:
-
+    <h3>
+- Front-End Development:
+    </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,bootstrap,css,html,react,redux,tailwind&perline=14" />
@@ -57,9 +49,9 @@
 <br>
 
 <br>   
-    
-- **Back-End Development**:
-
+  <h3>  
+- Back-End Development:
+  </h3>
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,express,firebase,nextjs,nodejs&perline=14" />
@@ -68,9 +60,9 @@
 
 
 <br>
-
-- **Cloud Hosting**:
-
+<h3>
+- Cloud Hosting:
+</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github&perline=14" />
