@@ -17,7 +17,6 @@
 
 <h3>- Full Stack  Web Developer &#128188 </h3>
 <h3>- Currently a computer engineering student &#x1F9D0 </h3>
-<h3>- My Porfile [link](https://www.0xabdulkhalid.ml)  &#x1F4BC </h3>
 
 <br><br>
 
